@@ -1,5 +1,6 @@
 red lion
 tiger
+horse
 leopard
 turtle
 donkey
