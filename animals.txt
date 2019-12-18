@@ -2,3 +2,9 @@ red lion
 tiger
 leopard
 turtle
+donkey
+kitten
+doggie
+seagull
+elephant
+giraffe
