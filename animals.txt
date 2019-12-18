@@ -8,5 +8,6 @@ kitten
 doggie
 seagull
 elephant
+pink giraffe -- very different
 giraffe
 axolotl
